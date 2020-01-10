@@ -314,6 +314,7 @@ a:focus {
   }
 }
 
+/*
 @media (min-width: 1200px) {
   .page__intro,
   .content__item-meta,
@@ -328,3 +329,4 @@ a:focus {
     font-size: calc(var(--min-fs) * 1px);
   }
 }
+*/
