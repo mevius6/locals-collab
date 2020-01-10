@@ -314,7 +314,6 @@ a:focus {
   }
 }
 
-/*
 @media (min-width: 1200px) {
   .page__intro,
   .content__item-meta,
@@ -325,8 +324,7 @@ a:focus {
 
 @media (max-width: 420px) {
   .page__intro,
-  .content__item-meta,
-  .footer__credits {
+  .content__item-meta {
     font-size: calc(var(--min-fs) * 1px);
   }
-} */
+}
